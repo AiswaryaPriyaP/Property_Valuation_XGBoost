@@ -65,7 +65,7 @@ Property_Valuation_XGBoost/
 │
 ├── data_fetcher.py
 ├── 24571002_final.csv
-├── data_fetcher.py
+├── 24571002_report.pdf
 └── README.md
 ```
 
@@ -143,4 +143,5 @@ These results indicate that while satellite imagery provides useful contextual i
 - Repository: Public GitHub repository
 
 All code and analysis were implemented specifically for this project.
+
 
